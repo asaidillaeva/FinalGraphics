@@ -6,10 +6,10 @@ difference(){
     translate([5, 5, 5, ])
     cube([160, 160, 165]);
     
-    translate([20, 0, 135])
-    sphere(d = 10);
+    translate([20, 2, 135])
+     sphere(d = 10);
     
-    translate([20, 170, 135])
+    translate([20, 168, 135])
     sphere(d = 10);
     
 }
